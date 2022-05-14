@@ -1,0 +1,92 @@
+
+:root {
+    background-color: #3f1c81;
+}
+
+body {
+    background-size: 100%;
+    position: relative;
+    background-size: cover;
+   }
+   
+
+h2{
+text-align: center; 
+font-size: 3rem;
+color: #ffff;
+padding-bottom: 10rem;
+-webkit-text-stroke: 1px black
+
+}
+
+
+
+.titulo {
+text-align: center;
+color: white;
+
+}
+
+.regras {
+text-align: center;
+width: 700px; 
+height: 700px;
+margin-left: auto;
+margin-right: auto; 
+color: #ffff;
+-webkit-text-stroke: 1px black;
+font-size: 40px;
+}
+ 
+#q1, #q2, #q3, #q4, #q5, #q6, #q7, #q8, #q9, #qmeio, #q11, #q12, #q13, #q14, #q15, #q16, #q17, #q18, #q19, #q20, #enviar {
+    color: rgb(0, 0, 0);
+    margin-bottom: 20rem;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.pontuacao {
+    padding: 2rem;
+    background-color:  #ca169d;
+}
+
+.container {
+    font-size: 25px;
+    color: #ffff;
+    margin-top: 10rem;
+
+}
+ 
+.questao {
+    font-size: 33px;
+    color: rgb(255, 254, 187);
+    background-color: #ca169d;
+    padding: 5px;
+
+}
+
+
+
+.botao {
+    font-size: 30px;
+    width:  14rem;
+    height: 4rem;
+    background: #ca169d;
+}
+
+
+.botao:hover {
+    cursor: pointer;
+}
+
+.final {
+    text-align: center;
+    width: 700px; 
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto; 
+    color: #ffff;
+    -webkit-text-stroke: 1px black;
+    font-size: 40px;
+    }
+
